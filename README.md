@@ -1,2 +1,2 @@
-# Statistical-Learning
+# Statistical Learning
 Statistical Learning Projects
